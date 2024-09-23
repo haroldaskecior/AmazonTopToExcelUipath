@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge ChatGPT",
+  "Type": "App",
+  "Id": "hblDRRZHikuXtGos5EkOEA",
+  "Reference": "DyCajz9njECGUPSYWsRzQA/hblDRRZHikuXtGos5EkOEA",
+  "Created": "2024-09-22T10:53:23.1977958Z",
+  "Updated": "2024-09-22T10:53:23.1977958Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
